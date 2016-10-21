@@ -203,5 +203,5 @@ Comment[sv]=Provmeddelande 2
 Comment[tr]=Test mesajı2
 Comment[uk]=Тестове повідомлення2
 Comment[x-test]=xxTest message2xx
-Sound=KDE-Im-New-Mail.ogg
+Sound=Oxygen-Im-New-Mail.ogg
 Action=None
